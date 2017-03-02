@@ -39,6 +39,9 @@ public class MainActivity extends AppCompatActivity {
         joaca = sala * 5/100;
         donatii = sala * 10/100;
 
+
+        ////sdasa
+
         //Afisare informatii
         libertateFinanciara.setText(String.valueOf(libertate_financiara));
         economiiTermenLung.setText(String.valueOf(economii_termen_lung));
